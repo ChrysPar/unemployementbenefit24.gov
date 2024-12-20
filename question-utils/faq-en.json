@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "What are the age criteria for the applicant?",
+        "answer": "The applicant must be between 20 and 66 years old. The date of birth of the beneficiary is considered as the starting point for reaching the 20th and 66th year of age. The critical time for meeting the age limit requirement is the time of submitting the application."
+    },
+    {
+        "id": 1,
+        "question": "I am a married beneficiary with minor children. How do I calculate the annual household income?",
+        "answer": "If the applicant has minor children, each child increases the annual household income by €586.08. For example, for an applicant with two (2) minor children, their annual household income must not exceed the amount of €11,172.16 (€10,000 + €586.08 + €586.08 = €11,172.16)."
+    },
+    {
+        "id": 2,
+        "question": "Are there other income support payments that are not included in the household income?",
+        "answer": "Yes, unemployment benefits, sickness benefits, maternity benefits, and long-term unemployment benefits (for potential provision in the following calendar year) are not included in the annual household income."
+    },
+    {
+        "id": 3,
+        "question": "Is the process for applying for the long-term unemployment benefit provided digitally?",
+        "answer": "Yes, it is provided through the e-services platform of DYPA."
+    },
+    {
+        "id": 4,
+        "question": "Are there remote service points available?",
+        "answer": "Yes, there are. You can visit myDYPAlive."
+    }
+]
