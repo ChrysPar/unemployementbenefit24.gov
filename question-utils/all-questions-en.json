@@ -2,7 +2,7 @@
     {
         "id": 0,
         "question": "Have you been unemployed for more than 12 months?",
-        "options": ["Yes, I have been unemployed for more than 12 months.", “I have been unemployed for less than 12 months.]   },
+        "options": ["Yes, I have been unemployed for more than 12 months.", “I have been unemployed for less than 12 months."]   },
     { "id": 1,
         "question": "Are you within the 2-month period after the expiration of your 12-month regular unemployment benefits?",
         "options": ["Yes, I am submitting the application within the specified time frame.", "No, I am not submitting the application within the specified time frame."]  },
