@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "Have you been unemployed for more than 12 months?",
+        "options": ["Yes, I have been unemployed for more than 12 months.", “I have been unemployed for less than 12 months.]   },
+    { "id": 1,
+        "question": "Are you within the 2-month period after the expiration of your 12-month regular unemployment benefits?",
+        "options": ["Yes, I am submitting the application within the specified time frame.", "No, I am not submitting the application within the specified time frame."]  },
+    { "id": 2, 
+ "question": "Are you registered in the unemployment platform of DYPA?",
+        "options": ["Yes, I am registered to the services of DYPA.", 
+                    "No, I am not registered."
+            ] },
+    {   "id": 3,
+        "question": "Which age group do you belong to?",
+        "options": ["I am under 20 years old according to my date of birth.", "I am over 20 years old and under 66 years old, according to my date of birth.", "I am 66 years old, but the date of application submission is not later than my date of birth. ", "I am 66 years old, and the date of application submission is later than my date of birth.", " I am over 66 years old, according to my date of birth."]
+    },
+    { "id": 4,
+        "question": "Select the category you belong to. My annual household income: Note: The annual household income is considered to be the total taxable, actual, exempt, or specially taxed income from all sources—except for severance pay—from the tax year two years prior to the exercise of the right, of the applicant, their spouse, and their minor children.",
+        "options": ["I am an adult, unmarried beneficiary, and my annual household income does not exceed €10,000.",
+                   "I am an adult, married beneficiary, without children, and my annual household income does not exceed €10,000.", 
+                   "I am an adult, married beneficiary, without children, and my annual household income exceeds €10,000.", 
+           "I am an adult, married beneficiary, with minor children, and my annual household income does not exceed the estimated amount.", 
+                  "I am an adult, married beneficiary, with minor children, and my annual household income exceeds the estimated amount." 
+        ]
+    }
+]
